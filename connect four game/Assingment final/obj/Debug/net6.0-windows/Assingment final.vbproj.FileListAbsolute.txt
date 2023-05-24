@@ -1,0 +1,38 @@
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.exe
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.deps.json
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.runtimeconfig.json
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.dll
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.pdb
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.vbproj.AssemblyReference.cache
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment_final.Form1.resources
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment_final.Form2.resources
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.vbproj.GenerateResource.cache
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.AssemblyInfoInputs.cache
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.AssemblyInfo.vb
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.vbproj.CoreCompileInputs.cache
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.dll
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\refint\Assingment final.dll
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.pdb
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.genruntimeconfig.cache
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\ref\Assingment final.dll
+C:\Users\Chamaka\Desktop\visual basic\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment_final.Resources.resources
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.exe
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.deps.json
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.runtimeconfig.json
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.dll
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\bin\Debug\net6.0-windows\Assingment final.pdb
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.vbproj.AssemblyReference.cache
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment_final.Form1.resources
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment_final.Form2.resources
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment_final.Resources.resources
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.vbproj.GenerateResource.cache
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.AssemblyInfoInputs.cache
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.AssemblyInfo.vb
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.vbproj.CoreCompileInputs.cache
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.dll
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\refint\Assingment final.dll
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.pdb
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\Assingment final.genruntimeconfig.cache
+C:\Users\Chamaka\Desktop\visual basic\P00200362_Chamaka_Amarasinghe_ITP_Summer_Code\Assingment final\Assingment final\obj\Debug\net6.0-windows\ref\Assingment final.dll
